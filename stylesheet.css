@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+}
+
+.header{
+  color: rgb(10, 10, 104);
+  padding-bottom: 300px;
+}
+
+.header-left{
+  float: left;
+  margin-left: 20px;
+}
+
+.header-right{
+  float: right;
+  margin-right: 30px;
+}
+
+.header-right h5{
+  float: left;
+  padding: 0 10px;
+}
+
+.img-position{
+  position: absolute;
+  top: 130px;
+  left: 620px;
+}
+
+.main-bottom{
+  border-bottom: 150px solid rgb(8, 8, 102);
+  width: 850px;
+  padding-left: 10px;
+  line-height: 0;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: normal;
+}
